@@ -1,0 +1,14 @@
+
+languageCode = "en-us"
+theme = "coming-soon"
+
+[params]
+    title = "Pedro Gasparotti"
+    phrases = ["Engineering", "Machine Learning", "Structural Health Monitoring"]
+    links = [
+        {name = "LinkedIn", url = "https://www.linkedin.com/in/pedro-gasparotti-86b4191a7"},
+        {name = "Email", url = "mailto:pedrovgasparotti@gmail.com"},
+        {name = "soundcloud", url = "https://soundcloud.com/brtech"}
+    ]
+    backgroundVideo = "bg.mp4"
+    footer = "Ex nihilo nihil fit"
