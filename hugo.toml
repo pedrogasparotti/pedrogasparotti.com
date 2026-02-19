@@ -4,7 +4,7 @@ theme = "coming-soon"
 
 [params]
     title = "Pedro Gasparotti"
-    phrases = ["Engineering", "Machine Learning", "Structural Health Monitoring"]
+    phrases = ["Machine Learning", "Structural Health Monitoring"]
     links = [
         {name = "LinkedIn", url = "https://www.linkedin.com/in/pedro-gasparotti-86b4191a7"},
         {name = "Email", url = "mailto:pedrovgasparotti@gmail.com"},
