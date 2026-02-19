@@ -12,7 +12,8 @@ theme = "coming-soon"
         {name = "Blog", url = "https://blue-rook.github.io/blog/"},
         {name = "Data Quality CLI", url = "https://github.com/pedrogasparotti/data-quality-checkr"},
     ]
-    backgroundVideo = "bg.mp4"
+    backgroundImage = "bg.png"
+    favicon = "favicon.ico"
     footer = "Ex nihilo nihil fit"
     umamiScript = "https://your-umami.vercel.app/script.js"
     umamiWebsiteId = "your-website-id-here"
