@@ -9,8 +9,10 @@ theme = "coming-soon"
         {name = "LinkedIn", url = "https://www.linkedin.com/in/pedro-gasparotti-86b4191a7"},
         {name = "Email", url = "mailto:pedrovgasparotti@gmail.com"},
         {name = "Orcid", url = "https://orcid.org/0009-0007-5824-3645"},
-        {name = "Data Quality CLI", url = "https://github.com/pedrogasparotti/data-quality-checkr"},
         {name = "Blog", url = "https://blue-rook.github.io/blog/"}
+        {name = "Data Quality CLI", url = "https://github.com/pedrogasparotti/data-quality-checkr"},
     ]
     backgroundVideo = "bg.mp4"
     footer = "Ex nihilo nihil fit"
+    umamiScript = "https://your-umami.vercel.app/script.js"
+    umamiWebsiteId = "your-website-id-here"
